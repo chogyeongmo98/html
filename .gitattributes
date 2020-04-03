@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Marcus Rashford</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Marcus Rashford</h1>
+		<img src="marcus.png"
+		width="300">
+
+		
+		<p>이름 : <i>마커스 래쉬포드</i></p>
+		<p>국적 : 잉글랜드</p>
+		<p>생년월일 : 1997년 10월 31일</p>
+		<p>팀 : <b>맨체스터 유나이티드</b></p>
+		<a href="https://www.youtube.com/watch?v=sIq8pqokOm8">래시포드 스페셜</a>
+		
+
+
